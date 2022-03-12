@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋</h1>
-<h1 align="center">I'm André Santana</h1>
+<h1 align="center">Hi 👋, I'm André Santana</h1>
 <h3 align="center">iOS Developer from Portugal</h3>
 
 - 🌱 I’m currently learning SwiftUI and Flutter

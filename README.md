@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm André Santana</h1>
 <h3 align="center">iOS Developer from Portugal</h3>
 
-- 📱 Instagram: santana.developer
 - 🌱 I’m currently learning SwiftUI and Flutter
 - 📫 How to reach me: andresantana.dev@gmail.com
 

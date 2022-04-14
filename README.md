@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andresantana-dev 
 - 🇵🇹 iOS Developer from Portugal 
 - 🌱 I’m currently learning SwiftUI and Flutter 
-- 📫 How to reach me: andresantana.dev@gmail.com 
+- 📫 How to reach me: hello@santanadeveloper.com
 - 📱 Connect with me: https://linktr.ee/santana.developer 
 
 <!---
